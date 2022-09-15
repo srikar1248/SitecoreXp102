@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Projects\Containers\Sitecore\Demo\src\SitecoreContainers.Website\bin\app.publish\</_PublishTargetUrl>
+    <History>True|2022-09-14T04:57:03.6620626Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/SitecoreContainers.Website.dll">
+      <publishTime>09/14/2022 10:27:03</publishTime>
+    </File>
+    <File Include="bin/SitecoreContainers.Website.pdb">
+      <publishTime>09/14/2022 10:27:03</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
